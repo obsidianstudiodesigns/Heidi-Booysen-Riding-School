@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://obsidianstudiodesigns.github.io/Heidi-Booysen-Riding-School/</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://obsidianstudiodesigns.github.io/Heidi-Booysen-Riding-School/og-image.jpg</image:loc><image:title>Heidi Booysen Riding School, horse riding lessons in Paarl</image:title></image:image>
+    <image:image><image:loc>https://obsidianstudiodesigns.github.io/Heidi-Booysen-Riding-School/assets/img/heidi.webp</image:loc><image:title>Heidi Booysen, riding instructor</image:title></image:image>
+    <image:image><image:loc>https://obsidianstudiodesigns.github.io/Heidi-Booysen-Riding-School/assets/img/stable.webp</image:loc><image:title>The stables at Salmonsvlei Farm, Paarl</image:title></image:image>
+    <image:image><image:loc>https://obsidianstudiodesigns.github.io/Heidi-Booysen-Riding-School/assets/img/ben.webp</image:loc><image:title>Ben, one of the school horses</image:title></image:image>
+    <image:image><image:loc>https://obsidianstudiodesigns.github.io/Heidi-Booysen-Riding-School/assets/img/flicka.webp</image:loc><image:title>Flicka, one of the school horses</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://obsidianstudiodesigns.github.io/Heidi-Booysen-Riding-School/privacy.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://obsidianstudiodesigns.github.io/Heidi-Booysen-Riding-School/terms.html</loc>
+    <lastmod>2026-10-13</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>

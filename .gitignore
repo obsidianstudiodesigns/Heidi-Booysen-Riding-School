@@ -1,0 +1,13 @@
+.claude/
+Thumbs.db
+.DS_Store
+og-render.png
+# client source files and research photos, kept locally only (tools/make-assets.py reads them)
+research/
+Landing page.jpeg
+mobile landing page.jpeg
+Logo.jpg
+Flyer 1.jpg
+flyer 2.jpg
+785363023_*.jpg
+tools/logo-clear.png

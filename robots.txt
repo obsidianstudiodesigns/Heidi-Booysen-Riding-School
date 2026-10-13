@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /tools/
+
+Sitemap: https://obsidianstudiodesigns.github.io/Heidi-Booysen-Riding-School/sitemap.xml
