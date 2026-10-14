@@ -6,6 +6,7 @@ Sources (kept locally, not committed):
   Landing page.jpeg       desktop hero, supplied by the client
   mobile landing page.jpeg  mobile hero, supplied by the client
   Logo.jpg                the client's logo
+  Heidi.jpeg              photo of Heidi, supplied by the client
 
 Run from the project root:  python tools/make-assets.py
 """
@@ -72,7 +73,8 @@ save_webp(desktop, "hero-desktop", 84)
 save_webp(mobile, "hero-mobile", 82)
 
 # Real photos from the Facebook page.
-save_webp(fit(ratio_crop(fb(11), 4 / 5, fx=0.55), 900), "heidi", 82)
+heidi = ImageOps.exif_transpose(Image.open(ROOT / "Heidi.jpeg")).convert("RGB")
+save_webp(fit(ratio_crop(heidi, 4 / 5, fy=0.2), 900), "heidi", 82)
 ben_flicka = fb(0)
 save_webp(fit(ratio_crop(ben_flicka.crop((0, 0, 640, 770)), 4 / 5, fx=0.4, fy=0), 640), "ben", 82)
 save_webp(fit(ratio_crop(ben_flicka.crop((640, 0, 1536, 770)), 4 / 5, fx=0.15, fy=0), 640), "flicka", 82)

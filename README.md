@@ -1,6 +1,6 @@
 # Heidi Booysen Riding School
 
-Website for Heidi Booysen Riding School, horse riding lessons, outrides and therapeutic riding at Salmonsvlei Farm, Paarl.
+Website for Heidi Booysen Riding School, horse riding lessons, outrides and therapeutic riding at Houtkloof, Paarl.
 
 Live: https://obsidianstudiodesigns.github.io/Heidi-Booysen-Riding-School/
 
@@ -13,18 +13,17 @@ Live: https://obsidianstudiodesigns.github.io/Heidi-Booysen-Riding-School/
 
 ## Content sources
 
-- Facebook page (https://www.facebook.com/profile.php?id=61591862675695) and its flyers: services, ages from 4, trial session (15 minutes, R200), therapeutic riding benefits, Salmonsvlei Farm, taglines, horse treat prices (250 g R70, 500 g R120, 1 kg R170)
-- Real photos from the Facebook page: Heidi, Ben and Flicka, the stables, arena, paddocks, horses, and three lesson photos cut from the trial-session flyer
-- Client artwork: logo, desktop and mobile landing images. The stall plaques in the landing artwork named another estate (Vergelegen), so that lettering is softened in the web versions.
+- Facebook page (https://www.facebook.com/profile.php?id=61591862675695) and its flyers: services, ages from 4, trial session (15 minutes, R200), therapeutic riding benefits, Houtkloof, taglines, horse treat prices (250 g R70, 500 g R120, 1 kg R170)
+- Real photos from the Facebook page: Ben and Flicka, the stables, arena, paddocks, horses, and three lesson photos cut from the trial-session flyer
+- Client artwork: logo, `Heidi.jpeg` (About section photo), desktop and mobile landing images. The stall plaques in the landing artwork named another estate (Vergelegen), so that lettering is softened in the web versions.
 - Generated photoreal images (Figma AI), used where the page had no photo: little rider on the lead rein, cantering, therapeutic riding, scenic outride, horse treats
 
 ## To confirm with Heidi before promoting the site
 
 - **WhatsApp number.** One flyer shows 064 774 9148; everything else says 063 774 9148, which the site uses.
 - **Lesson, therapy and outride prices.** Not on Facebook, so the site says "ask Heidi". Add them if she wants them public.
-- **Map pin.** The map shows Paarl in general; replace with an exact pin for Salmonsvlei Farm once confirmed.
+- **Map pin.** The map searches "Houtkloof, Paarl"; swap in an exact pin for the yard if Heidi shares one.
 - **Policies written as sensible defaults** in `terms.html`: indemnity form before the first ride, helmet lending, cancellations, dogs at the yard, photo consent. Adjust to how Heidi actually works.
-- Heidi's photo is the selfie with a horse from the Facebook page. Swap if she prefers another.
 - No reviews or testimonials are on the site. Add real ones when she has them.
 
 ## Tools
